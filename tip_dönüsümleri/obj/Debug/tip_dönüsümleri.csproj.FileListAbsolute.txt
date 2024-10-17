@@ -1,0 +1,7 @@
+C:\Users\Dilber Taştan\source\repos\patikadev_c#\tip_dönüsümleri\bin\Debug\tip_dönüsümleri.exe.config
+C:\Users\Dilber Taştan\source\repos\patikadev_c#\tip_dönüsümleri\bin\Debug\tip_dönüsümleri.exe
+C:\Users\Dilber Taştan\source\repos\patikadev_c#\tip_dönüsümleri\bin\Debug\tip_dönüsümleri.pdb
+C:\Users\Dilber Taştan\source\repos\patikadev_c#\tip_dönüsümleri\obj\Debug\tip_dönüsümleri.csproj.AssemblyReference.cache
+C:\Users\Dilber Taştan\source\repos\patikadev_c#\tip_dönüsümleri\obj\Debug\tip_dönüsümleri.csproj.CoreCompileInputs.cache
+C:\Users\Dilber Taştan\source\repos\patikadev_c#\tip_dönüsümleri\obj\Debug\tip_dönüsümleri.exe
+C:\Users\Dilber Taştan\source\repos\patikadev_c#\tip_dönüsümleri\obj\Debug\tip_dönüsümleri.pdb
